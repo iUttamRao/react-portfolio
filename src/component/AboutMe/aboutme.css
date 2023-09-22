@@ -1,0 +1,21 @@
+#about{
+    padding-bottom:112px;
+    padding-top:112px;
+}
+.heading h2{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom :60px;
+    font-size:50px;
+}
+.hello{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.info{
+    margin:0;
+    padding:0;
+    width:90%;
+    float:left;
+}
